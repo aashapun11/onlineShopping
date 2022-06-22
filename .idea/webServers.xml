@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1622c80c-a0fa-4d8f-8e9f-197c5cf569d8" name="db" url="http://localhost/project1">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="a63e9347-3fb2-4d33-a1fa-f6b40ac91347" name="aa" url="http://localhost/shopping">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

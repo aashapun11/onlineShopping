@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+footer{
+    width: 100%;
+    background-color: black;
+    margin-top: auto;
+}
